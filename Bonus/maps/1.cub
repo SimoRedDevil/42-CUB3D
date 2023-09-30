@@ -1,0 +1,13 @@
+NO ./textures/metal_1.xpm
+SO ./textures/metal_2.xpm
+WE ./textures/metal_3.xpm
+EA ./textures/metal_4.xpm
+C 34, 112, 147
+F 30, 39, 46
+
+111111111111
+111010101111
+111D10000001
+110011010111
+11N110001011
+111111111111
