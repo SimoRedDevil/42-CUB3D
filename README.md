@@ -26,3 +26,6 @@ This project introcuded me to the beautiful world of raycasting using C language
     4. Boom there is an executable named cub3D, run it with a map of your choice
     5. Example: ./cub3D maps/3.cub
 If you want to see mandatory part do the same thing but in **Mandatory** folder.
+
+### Project Teammate
+@Abdlatif-20
