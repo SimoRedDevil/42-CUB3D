@@ -27,5 +27,7 @@ This project introcuded me to the beautiful world of raycasting using C language
     5. Example: ./cub3D maps/3.cub
 If you want to see mandatory part do the same thing but in **Mandatory** folder.
 
-### Project Teammate
-@Abdlatif-20
+### Project Teammates
+
+[ABDELLATYF EN-NEIYMY](https://github.com/Abdlatif-20)<br />
+[MOHAMED EL YOUSSFI](https://github.com/SimoRedDevil)
