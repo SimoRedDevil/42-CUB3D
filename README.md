@@ -5,6 +5,7 @@ This project introcuded me to the beautiful world of raycasting using C language
 
 ## Game Features
 
+- Map Parsing & Error Managment
 - Looking Up & Down
 - Wall Collision
 - Mouse Rotation
